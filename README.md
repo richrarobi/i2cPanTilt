@@ -1,4 +1,7 @@
 # i2cPanTilt
+
+NBB This is now superceded by the pantilt package.
+
 go program to test controlling the Pimoroni PanTilt (Raspberry Pi) Hat using i2c via periph
 
 Routines will be incorporated in my mangolink reply.go so I can control the PanTilt with a gui program (Work in Progress).
